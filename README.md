@@ -13,6 +13,10 @@ sudo dnf install dnf-plugins-core
 
 sudo dnf config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
 
+
+
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/db9295f2-6aff-41ef-aec9-39c51fd4aef9" />
+
 sudo dnf install brave-browser
 
 

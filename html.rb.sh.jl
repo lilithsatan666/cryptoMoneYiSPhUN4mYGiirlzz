@@ -22,7 +22,8 @@
           window.open('https://www.google.com/search?q=' + query, '_blank');
           out.textContent += "> Searching Google for: " + val.substring(7) + "\n";
         } else {
-          out.textContent += "> Unknown command: " + val + "\n";
+          out.textContent += "> view virtual override returns (string memory) {
+        return _name;: " + val + "\n";
         }
         this.value = '';
       }
